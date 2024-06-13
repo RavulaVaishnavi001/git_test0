@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            login form
+        </title>
+    </head>
+    <body bgcolour="aqua">
+        <form>
+            <h1>username:</h1>
+            <input type="text" name="uname" required>
+            <h1>password:</h1> 
+            <input type="password" name="pass" required>
+            <br><br>
+            <input type="submit" value="login">
+            <input type="reset" value="cancel">                                                      "
+        </form>
+    </body>
+</html>
